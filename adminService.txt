@@ -1,3 +1,4 @@
 add and remove users
 change the roles
 manage databses
+closing the connection
