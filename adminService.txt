@@ -1,8 +1,9 @@
 add and remove users
-change the roles
+
 manage databses
 
-closing database conn
+closing the database connection
+
 
 change1
 change2 in my database
