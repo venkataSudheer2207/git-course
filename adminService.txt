@@ -4,5 +4,9 @@ manage databses
 closing the connection
 
 change1
+<<<<<<< HEAD
 change2 in my database 
 
+=======
+change2 in my database
+>>>>>>> feauture3
