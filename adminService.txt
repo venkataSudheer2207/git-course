@@ -1,8 +1,12 @@
 add and remove users
 change the roles
 manage databses
+<<<<<<< HEAD
 
 closing database conn
+=======
+closing the database connection
+>>>>>>> 709680be49b21e8ffa22b7427b9282e99e04c86b
 
 change1
 change2 in my database
